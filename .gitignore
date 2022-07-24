@@ -2,3 +2,5 @@
 venv/
 .env
 emails/.env.yaml
+%HOMEPATH%
+__pycache__
