@@ -4,3 +4,4 @@ venv/
 emails/.env.yaml
 %HOMEPATH%
 __pycache__
+google-credentials.json
